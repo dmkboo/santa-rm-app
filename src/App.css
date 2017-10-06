@@ -1,0 +1,45 @@
+.avatar-container {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+h1.artist-name {
+    font-size: 28px;
+    text-align: center;
+    font-weight: normal;
+}
+h3.artist-address {
+    text-align: center;
+    font-weight: normal;
+}
+.social-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 100%; */
+}
+.social-item {
+    margin: 0 auto;
+}
+.main-wrapper{
+  padding-left: 256px;
+}
+.pd-40{
+  padding: 40px;
+}
+.card{
+  display: flex;
+  padding-bottom: 20px;
+}
+.album-details {
+    display: flex;
+    flex-direction: column;
+}
+.album-year{
+  margin: 5px 0;
+  font-size: 18px;
+}
+.album-title {
+    margin: 5px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
